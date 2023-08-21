@@ -260,7 +260,7 @@ const App = () => {
 
 
   return (
-     <section className="max-w-2xl mx-auto pt-5 space-y-8">
+     <section className="max-w-2xl mx-auto pt-5 px-5 space-y-8">
       <h1 className="text-lg font-semibold md:text-2xl">OpulenceDeveloper Calender</h1>
        <div className=" overflow-x-auto whitespace-nowrap border border-ash3 rounded-tr-lg rounded-tl-lg p-5">
         {renderHeader()}
